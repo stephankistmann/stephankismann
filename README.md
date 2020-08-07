@@ -1,6 +1,3 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
 # Stephan Kistmann Jacob
 
 ## Olá pessoal 👋
